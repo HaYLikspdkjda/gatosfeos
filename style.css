@@ -1,0 +1,30 @@
+h2,
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    color:rgb(243, 220, 239);
+}
+
+p{
+font-size: 20px;
+}
+
+
+body{
+
+    background-color: #ee62af;
+}
+
+.border-redondeados{
+    border-radius: 50%;
+}
+
+.imagen-de-gatos{
+    width: 300px;
+    border-width: 8px;
+    border-color:rgb(179, 172, 177);
+    border-style: double;
+}
+img{
+    width: 300px;  
+}
